@@ -23,9 +23,9 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 document.addEventListener("DOMContentLoaded", function() {
     const images = [
-        'images/Boomza2.jpeg',
-        'images/Boomza1.jpeg',
-        'images/Boomza3.jpeg',
+        'Boomza2.jpeg',
+        'Boomza1.jpeg',
+        'Boomza3.jpeg',
     ];
 
     let index = 0;
